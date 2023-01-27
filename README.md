@@ -98,7 +98,8 @@ Execute the program.
 </html>
 ```
 ## OUTPUT
-![Output](./output/timetable.png)
+![timetable](https://user-images.githubusercontent.com/121471306/215129787-f418e85c-fd5a-4d44-bbac-995be1dfd413.png)
+
 
 ## RESULT
 Successfully Completed.
